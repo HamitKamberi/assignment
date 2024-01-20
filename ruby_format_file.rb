@@ -1,0 +1,1 @@
+puts 'Any class writen in ruby format in #text_format_file.txt'
